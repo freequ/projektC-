@@ -1,4 +1,4 @@
-# projekt C++ "NFS 2016"
+#                      projekt C++ "NFS 2016"
 
 # Opis końcowego projektu
 Projektem będzie gra polegająca na uczestnictwie w wyścigach samochodowych, a dokładniej tuningowaniu oraz ulepszaniu swojego samochodu.
@@ -11,5 +11,13 @@ Element wyścigu będzie animacją.
 
 
 
+# Jak, czym
 
+Do programowania z użyciem interfejsu graficznego użyje Visual Studio.
+
+# MILESTONES
+
+1. 01.11.2016 - MENU STARTOWE, OGÓLE FUNKCJE KUPOWANIA, ULEPSZANIA SAMOCHODU.
+2. 01.12.2016 - WYŚCIGI BEZ OPRAWY GRAFICZNEJ, ZAPISU STANU GRY.
+3. 01.01.2017 - SZATA GRAFICZNA, ANIMACJE WYŚCIGÓW.
 
